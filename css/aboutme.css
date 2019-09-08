@@ -1,0 +1,96 @@
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+}
+
+.column.left {
+  margin-left: 5%;
+  width: 25%;
+}
+
+.column.right {
+  margin: 0% 5% 0% 5%;
+  width: 60%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+@media screen and (max-width: 600px) {
+  .column.left {
+    width: 100%;
+    margin: 0;
+  }
+  .column.right {
+    width: 100%;
+    margin: 0;
+  }
+
+  .selfImage{
+    width: 50%;
+    margin-left: 25%
+  }
+
+  .middle {
+    width: 50%;
+  }
+}
+
+/* For the image */
+.selfImage{
+  margin-top: 5%;
+  opacity: 1;
+  display: block;
+  max-width:100%;
+  height:auto;
+  transition: 1.0s ease;
+  backface-visibility: hidden;
+  border-radius: 50%;
+}
+
+.middle {
+  transition: 1.0s ease;
+  opacity: 0;
+  position: relative;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  width: 50%;
+  margin-left: 50%;
+}
+
+.container:hover .selfImage {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+  align: center;
+}
+
+a.mediaLink{
+  text-decoration:none;
+}
+
+.mediaLinksContainer{
+  width: 92%;
+  margin-left: 4%;
+}
+
+.mediaImage{
+  width: 15%;
+  margin-left: 4%;
+  margin-right: 4%;
+}

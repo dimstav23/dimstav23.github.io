@@ -1,0 +1,58 @@
+.educationContainer{
+  background: white;
+}
+
+
+/* Create two equal columns that floats next to each other */
+.educationColumnLeft {
+  float: left;
+  width: 20%;
+  padding: 0px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 0%;
+}
+
+.educationColumnRight {
+  float: left;
+  width: 65%;
+  padding: 10px;
+  margin-left: 5%;
+}
+/* Clear floats after the columns */
+.educationRow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.ntuaLogo {
+  width: 100%;
+}
+
+.udemyLogo {
+  width: 100%;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .educationColumnLeft {
+    width: 100%;
+    margin: 0;
+  }
+
+  .educationColumnRight {
+    width: 100%;
+    margin: 0;
+  }
+
+  .ntuaLogo {
+    width: 50%;
+    margin-left: 25%
+  }
+
+  .udemyLogo {
+    width: 50%;
+    margin-left: 25%
+  }
+}
