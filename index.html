@@ -3,19 +3,21 @@ layout: default
 title: Main Page
 ---
 <link rel="stylesheet" href="/css/general.css">
-<div class="general">
+
+  {% include header.html %}
 
   {% include nav.html %}
 
-  {% include header.html %}
+<div class="content">
 
   {% include aboutme.html %}
 
   {% include education.html %}
-<!--
+
   {% include work.html %}
--->
+
   {% include skills.html %}
 
   {% include footer.html %}
+  
 </div>

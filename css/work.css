@@ -1,0 +1,136 @@
+.workHeader {
+  background-color: #F1F1F1;
+  text-align: center;
+}
+
+.containerTimeline {
+   width: 80%;
+   margin: 0% auto 0% auto;
+   position: relative;
+   overflow: hidden;
+}
+
+/* Vertical Line */
+.containerTimeline:before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 10%;
+   margin-left: -1px;
+   width: 2px;
+   height: 100%;
+   background: #CCD1D9;
+   z-index: 1
+}
+
+.timeline-block {
+   width: -webkit-calc(50% + 8px);
+   width: -moz-calc(50% + 8px);
+   width: calc(50% + 8px);
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: -moz-box;
+   display: flex;
+   -webkit-box-pack: justify;
+   -webkit-justify-content: space-between;
+   -moz-box-pack: justify;
+   justify-content: space-between;
+   clear: both;
+   margin-top: 50px;
+}
+
+.timeline-block-right {
+   /*float: right;*/
+   position: relative;
+   left: -webkit-calc(10% - 8px);
+   left: -moz-calc(10% - 8px);
+   left: calc(10% - 8px);
+   width: 80%;
+}
+
+.timeline-block-left {
+   float: left;
+   direction: rtl
+}
+
+.marker {
+   width: 16px;
+   height: 16px;
+   border-radius: 50%;
+   border: 2px solid #F5F7FA;
+   background: #4FC1E9;
+   margin-top: 10px;
+   z-index: 10;
+}
+
+.timeline-content {
+   width: 95%;
+   padding: 0 15px;
+   color: #666;
+}
+
+.timeline-content h3 {
+   margin-top: 5px;
+   margin-bottom: 5px;
+   font-size: 25px;
+   font-weight: 500
+}
+
+.timeline-content span {
+   font-size: 15px;
+   color: #a4a4a4;
+}
+
+.timeline-content p {
+   font-size: 14px;
+   line-height: 1.5em;
+   word-spacing: 1px;
+   color: #888;
+}
+
+
+@media screen and (max-width: 768px) {
+   /*
+   .containerTimeline:before {
+      left: 8px;
+      width: 2px;
+   }
+   */
+   .timeline-block {
+      /*width: 100%;*/
+      margin-bottom: 30px;
+   }
+   .timeline-block-right {
+      float: none;
+   }
+
+   .timeline-block-left {
+      float: none;
+      direction: ltr;
+   }
+
+   .companyLogo {
+     width: 100px;
+   }
+
+   .imageList {
+     float:none;
+   }
+}
+
+.companyLogo {
+  width: 150px;
+  margin-top: 5px;
+  float: left;
+}
+
+.clearfixCompany {
+  overflow: auto;
+}
+
+.imageList{
+  position:relative;
+  margin-top: 1%;
+  float:left;
+  /*list-style-image: url("/assets/bullet.jpg");*/
+}
