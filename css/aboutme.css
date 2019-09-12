@@ -51,6 +51,7 @@
   transition: 1.0s ease;
   backface-visibility: hidden;
   border-radius: 50%;
+  padding-top: 5px;
 }
 
 .middle {
@@ -80,6 +81,9 @@
   align: center;
 }
 
+a.text {
+  text-decoration: none;
+}
 a.mediaLink{
   text-decoration:none;
 }
@@ -90,7 +94,10 @@ a.mediaLink{
 }
 
 .mediaImage{
-  width: 15%;
-  margin-left: 4%;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  float: left;
+  width: 17%;
   margin-right: 4%;
+  margin-left: 4%;
 }
