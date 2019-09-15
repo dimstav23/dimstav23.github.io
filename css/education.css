@@ -11,18 +11,23 @@
 /* Create two equal columns that floats next to each other */
 .educationColumnLeft {
   float: left;
-  width: 20%;
+  width: 40%;
   padding: 0px;
-  margin-left: 5%;
-  margin-right: 5%;
-  margin-top: 0%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  background-color: white;
 }
 
 .educationColumnRight {
   float: left;
-  width: 65%;
-  padding: 10px;
-  margin-left: 5%;
+  width: 60%;
+  padding: 0px;
+  background-color: white;
+}
+
+.educationRow {
+  margin-top: 20px;
 }
 /* Clear floats after the columns */
 .educationRow:after {
@@ -32,37 +37,55 @@
 }
 
 .ntuaLogo {
-  width: 100%;
+  width: 25%;
+  margin-left: 65%;
 }
 
 .udemyLogo {
-  width: 100%;
+  width: 25%;
+  margin-left: 65%;
 }
 
 .hyperlink {
-  width: 3%;
+  width: 20px;
   padding-left: 5px;
 }
 
+.educationText {
+  margin: 0;
+}
+
+.udemyText {
+  margin: 5px;
+}
+
+.udemyList {
+  margin: 0;
+}
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .educationColumnLeft {
     width: 100%;
-    margin: 0;
+    margin: 0%;
   }
 
   .educationColumnRight {
     width: 100%;
-    margin: 0;
+    margin: 0%;
   }
 
   .ntuaLogo {
     width: 50%;
-    margin-left: 25%
+    margin-left: 25%;
+    margin-top: 0;
   }
 
   .udemyLogo {
     width: 50%;
-    margin-left: 25%
+    margin-left: 25%;
+  }
+
+  .educationText {
+    text-align: center;
   }
 }

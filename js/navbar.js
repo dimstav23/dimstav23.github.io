@@ -21,8 +21,8 @@ function stickyNavbar() {
   mainNavLinks.forEach(link => {
     let section = document.querySelector(link.hash);
     if (
-      section.offsetTop <= fromTop &&
-      section.offsetTop + section.offsetHeight > fromTop
+      section.offsetTop <= fromTop  && //because of moving content down
+      section.offsetTop + section.offsetHeight >= fromTop
     ) {
       link.classList.add("active");
     } else {
@@ -38,3 +38,14 @@ function stickyNavbar() {
     content.classList.remove("moveContentDown");
   }
 }
+/*
+mainNavLinks.forEach(link => {
+  link.onclick = goToHash(link.hash);
+});
+
+function goToHash(hash) {
+  //location.hash = hash;
+  alert(height);
+  return false;
+}
+*/

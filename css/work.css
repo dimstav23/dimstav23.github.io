@@ -15,12 +15,12 @@
    content: '';
    position: absolute;
    top: 0;
-   left: 10%;
+   left: 20%;
    margin-left: -1px;
    width: 2px;
    height: 100%;
    background: #CCD1D9;
-   z-index: 1
+   z-index: 1;
 }
 
 .timeline-block {
@@ -42,9 +42,9 @@
 .timeline-block-right {
    /*float: right;*/
    position: relative;
-   left: -webkit-calc(10% - 8px);
-   left: -moz-calc(10% - 8px);
-   left: calc(10% - 8px);
+   left: -webkit-calc(20% - 8px);
+   left: -moz-calc(20% - 8px);
+   left: calc(20% - 8px);
    width: 80%;
 }
 

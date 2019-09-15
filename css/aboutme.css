@@ -5,12 +5,12 @@
 
 .column.left {
   margin-left: 5%;
-  width: 25%;
+  width: 35%;
 }
 
 .column.right {
-  margin: 0% 5% 0% 5%;
-  width: 60%;
+  margin: 0% 10% 0% 10%;
+  width: 40%;
 }
 
 /* Clear floats after the columns */
@@ -20,33 +20,14 @@
   clear: both;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
-@media screen and (max-width: 600px) {
-  .column.left {
-    width: 100%;
-    margin: 0;
-  }
-  .column.right {
-    width: 100%;
-    margin: 0;
-  }
-
-  .selfImage{
-    width: 50%;
-    margin-left: 25%
-  }
-
-  .middle {
-    width: 50%;
-  }
-}
-
 /* For the image */
 .selfImage{
   margin-top: 5%;
   opacity: 1;
   display: block;
   max-width:100%;
+  width: 80%;
+  margin-left: 10%;
   height:auto;
   transition: 1.0s ease;
   backface-visibility: hidden;
@@ -89,15 +70,35 @@ a.mediaLink{
 }
 
 .mediaLinksContainer{
-  width: 92%;
-  margin-left: 4%;
+  width: 88%;
+  margin-left: 6%;
 }
 
 .mediaImage{
   padding-top: 5px;
   padding-bottom: 2px;
   float: left;
-  width: 17%;
-  margin-right: 4%;
-  margin-left: 4%;
+  width: 12%;
+  margin-right: 6.5%;
+  margin-left: 6.5%;
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+@media screen and (max-width: 600px) {
+  .column.left {
+    width: 100%;
+    margin: 0;
+  }
+  .column.right {
+    width: 100%;
+    margin: 0;
+  }
+
+  .selfImage{
+    width: 60%;
+    margin-left: 20%;
+  }
+
+  .middle {
+    width: 50%;
+  }
 }
