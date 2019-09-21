@@ -36,3 +36,8 @@
 .active {
   background-color: green;
 }
+
+#navlink {
+  font-family: Lobster;
+  font-size: 18;
+}

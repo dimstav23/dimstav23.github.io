@@ -1,6 +1,8 @@
 .educationHeader {
   background-color: #F1F1F1;
   text-align: center;
+  padding: 5;
+  background-repeat: repeat;
 }
 
 .educationContainer{
@@ -23,7 +25,7 @@
   float: left;
   width: 60%;
   padding: 0px;
-  background-color: white;
+  font-family: RalewayRegular;
 }
 
 .educationRow {
@@ -57,6 +59,7 @@
 
 .udemyText {
   margin: 5px;
+  font-style: italic;
 }
 
 .udemyList {
@@ -86,6 +89,13 @@
   }
 
   .educationText {
+    text-align: center;
+  }
+
+  .udemyList {
+    list-style: none;
+  }
+  .udemyText {
     text-align: center;
   }
 }

@@ -1,5 +1,11 @@
 .headerContainer {
   background-color: #F1F1F1;
   text-align: center;
-  padding: 5px;
+  padding: 0px;
+}
+
+.headerImage {
+  padding-left: 30%;
+  width: 100%;
+  background-color: black;
 }

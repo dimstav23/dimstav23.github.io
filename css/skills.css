@@ -1,3 +1,8 @@
+.skillsHeader {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 5;
+}
 /* Create four equal columns that floats next to each other */
 .gridColumn {
   float: left;
@@ -13,7 +18,7 @@
 
 /* Content */
 .gridContent {
-
+  font-family: RalewayBold;
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
 /*@media screen and (max-width: 900px) {

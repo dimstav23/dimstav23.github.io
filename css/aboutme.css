@@ -13,6 +13,12 @@
   width: 40%;
 }
 
+.column.right p {
+  font-family: RalewayRegular;
+  text-align: justify;
+  font-size-adjust: auto;
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -89,8 +95,8 @@ a.mediaLink{
     margin: 0;
   }
   .column.right {
-    width: 100%;
-    margin: 0;
+    width: 90%;
+    margin-left: 5%;
   }
 
   .selfImage{

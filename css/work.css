@@ -1,6 +1,7 @@
 .workHeader {
   background-color: #F1F1F1;
   text-align: center;
+  padding: 5;
 }
 
 .containerTimeline {
@@ -8,6 +9,7 @@
    margin: 0% auto 0% auto;
    position: relative;
    overflow: hidden;
+   font-family: RalewayRegular;
 }
 
 /* Vertical Line */
@@ -73,12 +75,14 @@
    margin-top: 5px;
    margin-bottom: 5px;
    font-size: 25px;
-   font-weight: 500
+   font-weight: 500;
+   font-family: RalewayRegular;
 }
 
 .timeline-content span {
    font-size: 15px;
-   color: #a4a4a4;
+   color: #000;
+   font-family: RalewayBold;
 }
 
 .timeline-content p {

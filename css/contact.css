@@ -1,10 +1,12 @@
 .contactHeader {
   background-color: #F1F1F1;
   text-align: center;
+  padding: 5;
 }
 
 .contactText {
   text-align: center;
+  font-family: RalewayRegular;
 }
 
 .contactLink {
