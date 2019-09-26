@@ -45,20 +45,28 @@ $(document).ready(function(){ // here so that I know that all the items have bee
   });
 
   $(mainNavLinks).click(function() {
-    //if we try to move to the same hash with the navbar, avoid this action
-    return !(this.hash === window.location.hash); // to remove the predefined handling
+    //if we try to move to the same hash with the navbar, go again on top
+    if (this.hash == window.location.hash){
+      moveToSection();
+      return false;
+    }
+    return true;//if you have to move, go to the handler
   });
 
   $(window).on('hashchange', function() {
     if ( "onhashchange" in window ) {
-      var hash = window.location.hash.substring( 1 );
-      if ( !hash )
-          return;
-      var offset = navbarHeight;
-      var sel = '[id="' + hash + '"], a[name="' + hash + '"]';
-      var currentOffset = $( sel ).offset().top;
-      $( window ).scrollTop( currentOffset - offset );
+      moveToSection();
     }
   });
+
+  function moveToSection(){
+    var hash = window.location.hash.substring( 1 );
+    if ( !hash )
+        return;
+    var offset = navbarHeight;
+    var sel = '[id="' + hash + '"], a[name="' + hash + '"]';
+    var currentOffset = $( sel ).offset().top;
+    $( window ).scrollTop( currentOffset - offset );
+  }
 
 });
