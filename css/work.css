@@ -109,6 +109,9 @@
       width: 2px;
    }
    */
+   .timeline-content h3 {
+      font-size: 20px;
+   }
    .timeline-block {
       /*width: 100%;*/
       margin-bottom: 30px;
@@ -128,6 +131,11 @@
 
    .imageList {
      float:none;
+   }
+
+   .li{
+     overflow-wrap: break-word;
+     word-break: break-all;
    }
 
    .clearfixCompany{
