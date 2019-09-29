@@ -92,6 +92,15 @@
    color: #888;
 }
 
+@media screen and (max-width: 1150px) {
+  .clearfixCompany{
+    display: grid;
+  }
+
+  .companyLogo {
+    margin-left: 10%;
+  }
+}
 
 @media screen and (max-width: 768px) {
    /*
@@ -120,12 +129,17 @@
    .imageList {
      float:none;
    }
+
+   .clearfixCompany{
+     display: grid;
+   }
 }
 
 .companyLogo {
   width: 150px;
   margin-top: 5px;
   float: left;
+  height: 150px;
 }
 
 .clearfixCompany {
@@ -136,5 +150,6 @@
   position:relative;
   margin-top: 1%;
   float:left;
+  display: table;
   /*list-style-image: url("/assets/bullet.jpg");*/
 }
