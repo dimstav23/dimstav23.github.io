@@ -6,7 +6,7 @@
 
 .containerTimeline {
    width: 80%;
-   margin: 0% auto 0% auto;
+   margin: 0% 0% 0% auto;
    position: relative;
    overflow: hidden;
    font-family: RalewayRegular;
@@ -109,6 +109,10 @@
       width: 2px;
    }
    */
+
+   .containerTimeline {
+      margin: 0% auto 0% auto;
+   }
    .timeline-content h3 {
       font-size: 20px;
    }
