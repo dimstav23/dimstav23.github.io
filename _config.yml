@@ -11,9 +11,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dimitrios Stavrakakis"
 description              : &description "PhD student <br /> @ The University of Edinburgh and <br /> @ Technical University of Munich"
-url                      : http://127.0.0.1:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dimstav23.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dimstav23/academicpages.github.io"
+repository               : "dimstav23/dimstav23.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
