@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* **September 2018 - December 2019: Software Egineer Consultant**<br />
+* **September 2018 - December 2019: Software Engineer Consultant**<br />
   *AKKA Technologies / AKKA DNO GmbH*
 
 * **March 2016 - March 2018: Backend Database Developer**<br />
