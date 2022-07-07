@@ -27,7 +27,14 @@ Work experience
   
 Publications
 ======
-__SafePM: Memory Safety for Persistent Memory__. EuroSys '22 (To appear)  
+__SafePM: Memory Safety for Persistent Memory__. EuroSys '22
+Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia.  
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2022/04/final_digital_version.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf) [[Code]](https://github.com/TUM-DSE/safepm) \
+[*Honorable Mention: Best Artifact Award*](https://dse.in.tum.de/wp-content/uploads/2022/05/HonorableMention-GillesMuller-SafePM.pdf)
+
+Invited talks
+======
+__SafePM: Memory Safety for Persistent Memory__. EuroSys '22
 Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia.  
   
 Service
