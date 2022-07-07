@@ -16,14 +16,6 @@ Education
   *Department of Informatics, Technical University of Munich, Germany*
 * **MEng. in Electrical and Computer Engineering** (2012 - 2018) <br />
   *National Technical University of Athens, Greece*
-
-Work experience
-======
-* **September 2018 - December 2019: Software Engineer Consultant**<br />
-  *AKKA Technologies / AKKA DNO GmbH*
-
-* **March 2016 - March 2018: Backend Database Developer**<br />
-  *Travelsoft Ltd.*
   
 Publications
 ======
@@ -43,7 +35,14 @@ Invited talks
 - Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022
 - Intel Labs, SGX Community Workshop 2022, Online, July 2022
 
-  
 Service
 ======
 __[Eurosys '21](https://2021.eurosys.org/index.html)__ : Student volunteer
+
+Work experience
+======
+* **September 2018 - December 2019: Software Engineer Consultant**<br />
+  *AKKA Technologies / AKKA DNO GmbH*
+
+* **March 2016 - March 2018: Backend Database Developer**<br />
+  *Travelsoft Ltd.*
