@@ -34,8 +34,15 @@ Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia. \
 
 Invited talks
 ======
-__SafePM: Memory Safety for Persistent Memory__. EuroSys '22
-Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia.  
+**Conferences/Workshops:**
+- UK RISE Annual Conference, Online, November 2020
+- UK RISE Annual Conference, Online, December 2021
+- Eurosys 2022, Rennes, April 2022
+
+**Industrial research labs:**
+- Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022
+- Intel Labs, SGX Community Workshop 2022, Online, July 2022
+
   
 Service
 ======
