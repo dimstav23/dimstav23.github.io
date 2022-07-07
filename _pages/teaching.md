@@ -8,7 +8,7 @@ author_profile: true
 
 ***2022***
 ====
-- [Introduction to software engineering (EIST)](https://dse.in.tum.de/teaching/eist-ss22/) (Spring 2022)
+- [Practical lab: Cloud Systems Engineering](https://dse.in.tum.de/teaching/cloud-lab-ss22/) (Spring 2022)
 
 ***2021***
 ====
