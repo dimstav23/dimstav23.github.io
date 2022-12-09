@@ -30,6 +30,7 @@ Invited talks
 - UK RISE Annual Conference, Online, November 2020
 - UK RISE Annual Conference, Online, December 2021
 - Eurosys 2022, Rennes, April 2022
+- UK RISE Annual Conference, London, December 2022
 
 **Industrial research labs:**
 - Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022
