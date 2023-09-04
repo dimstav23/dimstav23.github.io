@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-__Anchor: A Library for Building Secure Persistent Memory Systems__. SIGMOD '24 (To Appear)  \
+__Anchor: Secure Persistent Memory Architecture__. SIGMOD '24 (To Appear)  \
 Dimitrios Stavrakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Sändig, Shady Issa, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications)
 
