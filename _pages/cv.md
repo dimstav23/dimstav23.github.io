@@ -19,6 +19,14 @@ Education
   
 Publications
 ======
+__SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 (To Appear)  \
+Dimitrios Stavrakakis, Alexandrina Panfil, Myoung Jin Nam, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications)
+
+__Anchor: A Library for Building Secure Persistent Memory Systems__. SIGMOD '24 (To Appear)  \
+Dimitrios Stavrakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Sändig, Shady Issa, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications)
+
 __SafePM: A Sanitizer for Persistent Memory__. EuroSys '22  \
 Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia. \
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2022/04/final_digital_version.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf) [[Code]](https://github.com/TUM-DSE/safepm) \
