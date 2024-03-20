@@ -38,5 +38,11 @@ Supervised Theses
 - [Fast and secure networking for remote direct memory access on persistent memory leveraging trusted execution environments](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2021/summer/docs/bsc_saendig_fast_and_secure_networking_for_remote_direct_memory_access_on_persistent_memory_leveraging_trusted_execution_environments.pdf) <br /> 
 ***Author: Philip Sändig, BSc Thesis***
 
+- [Memory Safety for Persistent Memory: Safe Persistent Pointers](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2021/winter/docs/bsc_panfil_memory_safety_for_persistent_memory_safe_persistent_pointers.pdf) <br /> 
+***Author: Alexandrina Panfil, BSc Thesis***
+
 - [Programming model for hybrid persistent memory systems](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2022/summer/docs/bsc_werndle_programming_model_for_hybrid_persistent_memory_systems.pdf) <br /> 
 ***Author: Matthias Werndle, BSc Thesis***
+
+- [Analysis and Enforcement of GDPR Rules on Key-Value Stores](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2023/summer/docs/msc_aypek_analysis_and_enforcement_of_gdpr_rules_on_key_value_stores.pdf) <br /> 
+***Author: Ertugrul Aypek, MSc Thesis***
