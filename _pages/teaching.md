@@ -6,6 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
+***2024***
+====
+- [Introduction to Software Engineering (EIST)](https://dse.in.tum.de/teaching/eist-24/) (Spring 2024)
+
 ***2023***
 ====
 - [Introduction to Software Engineering (EIST)](https://dse.in.tum.de/teaching/ss23-eist23/) (Spring 2023)
