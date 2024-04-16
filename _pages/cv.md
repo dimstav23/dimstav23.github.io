@@ -20,7 +20,7 @@ Education
 Publications
 ======
 __SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 (To Appear)  \
-Dimitrios Stavrakakis, Alexandrina Panfil, Myoung Jin Nam, Pramod Bhatotia. \
+Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/SPP)
 
 __Anchor: A Library for Building Secure Persistent Memory Systems__. SIGMOD '24 (To Appear)  \
