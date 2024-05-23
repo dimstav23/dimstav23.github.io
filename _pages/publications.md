@@ -17,11 +17,11 @@ author_profile: true
 
 __SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 (To Appear)  \
 Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/SPP)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/05/SPP_DSN_24_Camera_Ready.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/05/SPP_DSN24_presentation.pdf) [[Code]](https://github.com/dimstav23/SPP)
 
 __Anchor: A Library for Building Secure Persistent Memory Systems__. SIGMOD '24 (To Appear)  \
 Dimitrios Stavrakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Sändig, Shady Issa, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/01/Anchor-SIGMOD.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/05/Anchor_SIGMOD_presentation_draft.pdf) [[Code]](https://github.com/dimstav23/Anchor) [[Security Proofs]](https://github.com/dimstav23/Anchor-Proofs)
 
 __SafePM: A Sanitizer for Persistent Memory__. EuroSys '22  \
 Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia. \
