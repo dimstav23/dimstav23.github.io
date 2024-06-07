@@ -25,12 +25,24 @@ Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
 
 __Anchor: A Library for Building Secure Persistent Memory Systems__. SIGMOD '24 (To Appear)  \
 Dimitrios Stavrakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Sändig, Shady Issa, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications)
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/Anchor) [[Security Proofs]](https://github.com/dimstav23/Anchor-Proofs)
 
 __SafePM: A Sanitizer for Persistent Memory__. EuroSys '22  \
 Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia. \
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2022/04/final_digital_version.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf) [[Code]](https://github.com/TUM-DSE/safepm) \
 [*Honorable Mention: Best Artifact Award*](https://dse.in.tum.de/wp-content/uploads/2022/05/HonorableMention-GillesMuller-SafePM.pdf)
+
+Work experience
+======
+* **July 2023 - January 2024: Research Intern**<br />
+  *Intel Labs*<br />
+  **Mentors**: *Dmitrii Kuvaiskii, Mona Vij*
+
+* **September 2018 - December 2019: Software Engineer Consultant**<br />
+  *AKKA Technologies / AKKA DNO GmbH*
+
+* **March 2016 - March 2018: Backend Database Developer**<br />
+  *Travelsoft Ltd.*
 
 Invited talks
 ======
@@ -47,11 +59,3 @@ Invited talks
 Service
 ======
 __[Eurosys '21](https://2021.eurosys.org/index.html)__ : Student volunteer
-
-Work experience
-======
-* **September 2018 - December 2019: Software Engineer Consultant**<br />
-  *AKKA Technologies / AKKA DNO GmbH*
-
-* **March 2016 - March 2018: Backend Database Developer**<br />
-  *Travelsoft Ltd.*
