@@ -19,13 +19,17 @@ Education
   
 Publications
 ======
-__SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 (To Appear)  \
-Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/SPP)
+__Toast: A Heterogeneous Memory Management System__. PACT '24 (To Appear) \
+Maurice Bailleu, Dimitrios Stavrakakis, Rodrigo Rocha, Soham Chakraborty, Deepak Garg, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
 
-__Anchor: A Library for Building Secure Persistent Memory Systems__. SIGMOD '24 (To Appear)  \
+__SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 \
+Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/05/SPP_DSN_24_Camera_Ready.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/06/SPP_DSN24_presentation.pdf) [[Code]](https://github.com/dimstav23/SPP)
+
+__Anchor: A Library for Building Secure Persistent Memory Systems__. SIGMOD '24 \
 Dimitrios Stavrakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Sändig, Shady Issa, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/Anchor) [[Security Proofs]](https://github.com/dimstav23/Anchor-Proofs)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/01/Anchor-SIGMOD.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/06/Anchor_SIGMOD24-pdf_animation_version.pdf) [[Code]](https://github.com/dimstav23/Anchor) [[Security Proofs]](https://github.com/dimstav23/Anchor-Proofs)
 
 __SafePM: A Sanitizer for Persistent Memory__. EuroSys '22  \
 Kartal Kaan Bozdoğan, Dimitrios Stavrakakis, Shady Issa, Pramod Bhatotia. \
