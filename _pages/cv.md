@@ -19,6 +19,10 @@ Education
   
 Publications
 ======
+__Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
+Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/SPP)
+
 __Toast: A Heterogeneous Memory Management System__. PACT '24 (To Appear) \
 Maurice Bailleu, Dimitrios Stavrakakis, Rodrigo Rocha, Soham Chakraborty, Deepak Garg, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
