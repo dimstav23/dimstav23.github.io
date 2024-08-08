@@ -17,11 +17,15 @@ author_profile: true
 
 __Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/SPP)
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://dimstav23.github.io/publications)
+
+__Gramine-TDX: A Lightweight OS Kernel for Confidential VMs__. CCS '24 (To Appear) \
+Dmitrii Kuvaiskii, Dimitrios Stavrakakis, Kailun Qin, Cedric Xing, Pramod Bhatotia, Mona Vij. \
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/gramineproject/gramine-tdx) [[Benchmarking framework]](https://github.com/dimstav23/gramine-tdx-benchmarking)
 
 __Toast: A Heterogeneous Memory Management System__. PACT '24 (To Appear) \
 Maurice Bailleu, Dimitrios Stavrakakis, Rodrigo Rocha, Soham Chakraborty, Deepak Garg, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/dimstav23/SPP)
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://dimstav23.github.io/publications)
 
 __SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 \
 Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
