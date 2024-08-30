@@ -24,7 +24,7 @@ Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Eri
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://zenodo.org/records/13347522)
 
 __Gramine-TDX: A Lightweight OS Kernel for Confidential VMs__. CCS '24 (To Appear) \
-Dmitrii Kuvaiskii*, Dimitrios Stavrakakis*, Kailun Qin, Cedric Xing, Pramod Bhatotia, Mona Vij. \
+Dmitrii Kuvaiskii\*, Dimitrios Stavrakakis\*, Kailun Qin, Cedric Xing, Pramod Bhatotia, Mona Vij. \
 \* *Equal contribution to the paper.* \
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/gramineproject/gramine-tdx) [[Benchmarking framework]](https://github.com/dimstav23/gramine-tdx-benchmarking)
 
@@ -41,7 +41,7 @@ Dimitrios Stavrakakis, Dimitra Giantsidi, Maurice Bailleu, Philip Sändig, Shady
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/01/Anchor-SIGMOD.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/06/Anchor_SIGMOD24-pdf_animation_version.pdf) [[Code]](https://github.com/dimstav23/Anchor) [[Security Proofs]](https://github.com/dimstav23/Anchor-Proofs)
 
 __SafePM: A Sanitizer for Persistent Memory__. EuroSys '22  \
-Kartal Kaan Bozdoğan*, Dimitrios Stavrakakis*, Shady Issa, Pramod Bhatotia. \
+Kartal Kaan Bozdoğan\*, Dimitrios Stavrakakis\*, Shady Issa, Pramod Bhatotia. \
 \* *Equal contribution to the paper.* \
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2022/04/final_digital_version.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf) [[Code]](https://github.com/TUM-DSE/safepm) \
 [*Honorable Mention: Best Artifact Award*](https://dse.in.tum.de/wp-content/uploads/2022/05/HonorableMention-GillesMuller-SafePM.pdf)
