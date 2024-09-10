@@ -26,7 +26,7 @@ Dmitrii Kuvaiskii\*, Dimitrios Stavrakakis\*, Kailun Qin, Cedric Xing, Pramod Bh
 
 __Toast: A Heterogeneous Memory Management System__. PACT '24 (To Appear) \
 Maurice Bailleu, Dimitrios Stavrakakis, Rodrigo Rocha, Soham Chakraborty, Deepak Garg, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/TUM-DSE/Toast)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/09/Toast__PACT_24_Camera_ready.pdf) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/TUM-DSE/Toast)
 
 __SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 \
 Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
