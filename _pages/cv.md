@@ -19,6 +19,10 @@ Education
   
 Publications
 ======
+__Confidential VMs Explained: A Cross-Layer Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
+Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
+
 __Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://zenodo.org/records/13347522)

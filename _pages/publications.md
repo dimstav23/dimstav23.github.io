@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+__Confidential VMs Explained: A Cross-Layer Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
+Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://dimstav23.github.io/publications)
+
 __Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://zenodo.org/records/13347522)
