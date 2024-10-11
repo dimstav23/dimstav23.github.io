@@ -19,7 +19,7 @@ Education
   
 Publications
 ======
-__Confidential VMs Explained: A Cross-Layer Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
+__Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
 Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
 
