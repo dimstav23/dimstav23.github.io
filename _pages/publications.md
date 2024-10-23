@@ -21,16 +21,16 @@ Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
 
 __Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://zenodo.org/records/13347522)
+[[Pre-Print]](https://arxiv.org/pdf/2408.11456) [[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://zenodo.org/records/13347522)
 
-__Gramine-TDX: A Lightweight OS Kernel for Confidential VMs__. CCS '24 (To Appear) \
+__Gramine-TDX: A Lightweight OS Kernel for Confidential VMs__. CCS '24 \
 Dmitrii Kuvaiskii\*, Dimitrios Stavrakakis\*, Kailun Qin, Cedric Xing, Pramod Bhatotia, Mona Vij. \
 \* *Equal contribution to the paper.* \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/gramineproject/gramine-tdx) [[Benchmarking framework]](https://github.com/dimstav23/gramine-tdx-benchmarking)
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/10/Gramine-TDX-CCS_24_presentation_short.pdf) [[Code]](https://github.com/gramineproject/gramine-tdx) [[Benchmarking framework]](https://github.com/dimstav23/gramine-tdx-benchmarking)
 
-__Toast: A Heterogeneous Memory Management System__. PACT '24 (To Appear) \
+__Toast: A Heterogeneous Memory Management System__. PACT '24 \
 Maurice Bailleu, Dimitrios Stavrakakis, Rodrigo Rocha, Soham Chakraborty, Deepak Garg, Pramod Bhatotia. \
-[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/09/Toast__PACT_24_Camera_ready.pdf) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/TUM-DSE/Toast)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/09/Toast__PACT_24_Camera_ready.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/10/Toast_Heterogeneous_Memory_Management_presentation.pdf) [[Code]](https://github.com/TUM-DSE/Toast)
 
 __SPP: Safe Persistent Pointers for Memory Safety__. DSN '24 \
 Dimitrios Stavrakakis, Alexandrina Panfil, MJin Nam, Pramod Bhatotia. \
