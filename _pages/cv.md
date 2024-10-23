@@ -71,6 +71,10 @@ Invited talks
 - UK RISE Annual Conference, London, December 2022
 - SIGMOD 2024, Santiago de Chile, June 2024
 - DSN 2024, Brisbane, June 2024
+- CCS 2024, Salt Lake City, October 2024
+
+**University research labs:**
+- [Computer Systems Seminar](https://www.eng.utah.edu/~csl-sem/), The University of Utah, Salt Lake City, October 2024
 
 **Industrial research labs:**
 - Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022
