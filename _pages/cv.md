@@ -21,7 +21,7 @@ Publications
 ======
 __Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
 Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/10/sigmetrics25summer-CVM-Explained.pdf) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/CVM_eval)
 
 __Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
@@ -30,7 +30,7 @@ Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Eri
 __Gramine-TDX: A Lightweight OS Kernel for Confidential VMs__. CCS '24 \
 Dmitrii Kuvaiskii\*, Dimitrios Stavrakakis\*, Kailun Qin, Cedric Xing, Pramod Bhatotia, Mona Vij. \
 \* *Equal contribution to the paper.* \
-[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/10/Gramine-TDX-CCS_24_presentation_short.pdf) [[Code]](https://github.com/gramineproject/gramine-tdx) [[Benchmarking framework]](https://github.com/dimstav23/gramine-tdx-benchmarking)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/10/Gramine_TDX-CCS24.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2024/10/Gramine-TDX-CCS_24_presentation_short.pdf) [[Code]](https://github.com/gramineproject/gramine-tdx) [[Benchmarking framework]](https://github.com/dimstav23/gramine-tdx-benchmarking)
 
 __Toast: A Heterogeneous Memory Management System__. PACT '24 \
 Maurice Bailleu, Dimitrios Stavrakakis, Rodrigo Rocha, Soham Chakraborty, Deepak Garg, Pramod Bhatotia. \
