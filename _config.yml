@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dimitrios Stavrakakis"
-description              : &description "PhD student <br /> @ The University of Edinburgh and <br /> @ Technical University of Munich"
+description              : &description "Postdoctoral researcher <br /> @ Technical University of Munich"
 url                      : https://dimstav23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dimstav23/dimstav23.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dimitrios Stavrakakis"
   avatar           : "profile_photo.jpeg"
-  bio              : "<b>PhD student @</b> <br /> <em>The University of Edinburgh</em> & <br /> <em>Technical University of Munich</em>"
+  bio              : "<b>Postdoctoral researcer @</b> <br /> <em>Technical University of Munich</em>"
   location         : "Munich, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

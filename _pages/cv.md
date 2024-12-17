@@ -11,12 +11,27 @@ redirect_from:
 
 Education
 ======
-* **PhD student in Computer Systems** (2020 - present) <br />
-  *School of Informatics, University of Edinburgh, UK* & <br />
-  *Department of Informatics, Technical University of Munich, Germany*
+* **PhD in Computer Science** (2020 - 2024) <br />
+  *School of Informatics, University of Edinburgh, United Kingdom* <br />
+  *Thesis title:* Dependable Persistent Memory Architectures
 * **MEng. in Electrical and Computer Engineering** (2012 - 2018) <br />
   *National Technical University of Athens, Greece*
   
+Work experience
+======
+* **November 2024 - Present: Postdoctoral researcher** <br />
+  *School of Computation, Information and Technology (CIT), Technical University of Munich (TUM), Germany*
+  
+* **July 2023 - January 2024: Research Intern**<br />
+  *Intel Labs*<br />
+  **Mentors**: *Dmitrii Kuvaiskii, Mona Vij*
+
+* **September 2018 - December 2019: Software Engineer Consultant**<br />
+  *AKKA Technologies / AKKA DNO GmbH*
+
+* **March 2016 - March 2018: Backend Database Developer**<br />
+  *Travelsoft Ltd.*
+
 Publications
 ======
 __Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
@@ -49,18 +64,6 @@ Kartal Kaan Bozdoğan\*, Dimitrios Stavrakakis\*, Shady Issa, Pramod Bhatotia. \
 \* *Equal contribution to the paper.* \
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2022/04/final_digital_version.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf) [[Code]](https://github.com/TUM-DSE/safepm) \
 [*Honorable Mention: Best Artifact Award*](https://dse.in.tum.de/wp-content/uploads/2022/05/HonorableMention-GillesMuller-SafePM.pdf)
-
-Work experience
-======
-* **July 2023 - January 2024: Research Intern**<br />
-  *Intel Labs*<br />
-  **Mentors**: *Dmitrii Kuvaiskii, Mona Vij*
-
-* **September 2018 - December 2019: Software Engineer Consultant**<br />
-  *AKKA Technologies / AKKA DNO GmbH*
-
-* **March 2016 - March 2018: Backend Database Developer**<br />
-  *Travelsoft Ltd.*
 
 Invited talks
 ======
