@@ -40,7 +40,7 @@ Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
 
 __Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
-[[Pre-Print]](https://arxiv.org/pdf/2408.11456) [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://zenodo.org/records/13347522)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2025/01/Cage-CGO-2025.pdf) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://zenodo.org/records/13347522)
 
 __Gramine-TDX: A Lightweight OS Kernel for Confidential VMs__. CCS '24 \
 Dmitrii Kuvaiskii\*, Dimitrios Stavrakakis\*, Kailun Qin, Cedric Xing, Pramod Bhatotia, Mona Vij. \
