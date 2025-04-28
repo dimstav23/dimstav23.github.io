@@ -77,7 +77,7 @@ Invited talks
 - CCS 2024, Salt Lake City, October 2024
 
 **University research labs:**
-- [Computer Systems Seminar](https://www.eng.utah.edu/~csl-sem/), The University of Utah, Salt Lake City, October 2024
+- [Computer Systems Seminar](https://www.eng.utah.edu/~csl-sem/old/f24/), The University of Utah, Salt Lake City, October 2024
 
 **Industrial research labs:**
 - Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022
