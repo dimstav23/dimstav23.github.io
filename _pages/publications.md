@@ -19,9 +19,9 @@ __Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX
 Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/11/sigmetrics25summer-CVM-Explained.pdf) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/TUM-DSE/CVM_eval)
 
-__Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 (To Appear) \
+__Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
-[[Paper]](https://dse.in.tum.de/wp-content/uploads/2025/01/Cage-CGO-2025.pdf) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://zenodo.org/records/13347522)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2025/02/Cage-CGO-25.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2025/03/Cage-CGO-25-slides.pdf) [[Code]](https://github.com/TUM-DSE/cage-meta)
 
 __Gramine-TDX: A Lightweight OS Kernel for Confidential VMs__. CCS '24 \
 Dmitrii Kuvaiskii\*, Dimitrios Stavrakakis\*, Kailun Qin, Cedric Xing, Pramod Bhatotia, Mona Vij. \
