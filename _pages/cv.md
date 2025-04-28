@@ -81,7 +81,7 @@ Invited talks
 
 **Industrial research labs:**
 - Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022
-- Intel Labs, SGX Community Workshop 2022, Online, July 2022
+- Intel Labs, [SGX Community Workshop 2022](https://community.intel.com/t5/Blogs/Tech-Innovation/Data-Center/Third-SGX-Community-Day/post/1393177#.YquzBaYuyqI.linkedin), Online, July 2022
 
 Service
 ======
