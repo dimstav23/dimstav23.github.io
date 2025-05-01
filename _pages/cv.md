@@ -34,6 +34,10 @@ Work experience
 
 Publications
 ======
+__Confidential Serverless Computing__. Arxiv '25 \
+Patrick Sabanic, Masanori Misono, Teofil Bodea, Julian Pritzi, Michael Hackl, Dimitrios Stavrakakis, Pramod Bhatotia. \
+[[Paper]](https://arxiv.org/pdf/2504.21518) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
+
 __Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
 Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/11/sigmetrics25summer-CVM-Explained.pdf) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/CVM_eval)
