@@ -48,7 +48,7 @@ Supervised Theses
 - [Programming model for hybrid persistent memory systems](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2022/summer/docs/bsc_werndle_programming_model_for_hybrid_persistent_memory_systems.pdf) <br /> 
 ***Author: Matthias Werndle, BSc Thesis***
 
-- [CloakVM: A Runtime System for Confidential Serverless Functions](https://dimstav23.github.io/teaching) <br /> 
+- [CloakVM: A Runtime System for Confidential Serverless Functions](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2024/winter/docs/msc_hackl_cloakvm.pdf) <br /> 
 ***Author: Michael Hackl, MSc Thesis***
 
 - [Analysis and Enforcement of GDPR Rules on Key-Value Stores](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2023/summer/docs/msc_aypek_analysis_and_enforcement_of_gdpr_rules_on_key_value_stores.pdf) <br /> 
