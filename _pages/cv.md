@@ -34,13 +34,13 @@ Work experience
 
 Publications
 ======
-__Confidential Serverless Computing__. Arxiv '25 \
+__Wallet: Confidential Serverless Computing__. NSDI '26 (To Appear) \
 Patrick Sabanic, Masanori Misono, Teofil Bodea, Julian Pritzi, Michael Hackl, Dimitrios Stavrakakis, Pramod Bhatotia. \
-[[Paper]](https://arxiv.org/pdf/2504.21518) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv) [[Arxiv version]](https://arxiv.org/pdf/2504.21518)
 
-__Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 (To Appear) \
+__Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 \
 Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
-[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/11/sigmetrics25summer-CVM-Explained.pdf) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/CVM_eval)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2024/11/sigmetrics25summer-CVM-Explained.pdf) [[Abstract]](https://dse.in.tum.de/wp-content/uploads/2025/04/CVM-Explained-SIGMETRICS-2025-abstract.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2025/06/CVM-Explained-SIGMETRICS-2025-slide.pdf) [[Code]](https://github.com/TUM-DSE/CVM_eval)
 
 __Cage: Hardware-Accelerated Safe WebAssembly__. CGO '25 \
 Martin Fink, Dimitrios Stavrakakis, Dennis Sprokholt, Soham Chakraborty, Jan-Erik Ekberg, Pramod Bhatotia. \
