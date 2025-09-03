@@ -81,11 +81,12 @@ Invited talks
 - CCS 2024, Salt Lake City, October 2024
 
 **University research labs:**
-- [Computer Systems Seminar](https://www.eng.utah.edu/~csl-sem/old/f24/), The University of Utah, Salt Lake City, October 2024
+- [Computer Systems Seminar](https://www.eng.utah.edu/~csl-sem/old/f24/), The University of Utah, Salt Lake City, October 2024 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vTx5mQ3HOkwPOhMEPTuwLwXyak-EQIHe_dSuvANm-h_tofvwtj0umNExJi7vc2ud-b1qyDbulbldUG0/pub?start=true&loop=false&delayms=3000)
 
-**Industrial research labs:**
-- Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022
-- Intel Labs, [SGX Community Workshop 2022](https://community.intel.com/t5/Blogs/Tech-Innovation/Data-Center/Third-SGX-Community-Day/post/1393177#.YquzBaYuyqI.linkedin), Online, July 2022
+**Industry talks:**
+- Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vSztIgeqt6D9t5qpLbY5_0i13LujmnhrrnUM4pR-3gjrK5NhtU1c_TgjVs1bodbz2UntLHOrTuzULal/pub?start=true&loop=false&delayms=3000)
+- Intel Labs, [SGX Community Workshop 2022](https://community.intel.com/t5/Blogs/Tech-Innovation/Data-Center/Third-SGX-Community-Day/post/1393177#.YquzBaYuyqI.linkedin), Online, July 2022 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vRxUoMUzAvdm3F_7aOZ8NG-gdMUXr6je2ZvEAkgTD40WAjzjfgnfJ5RTxxv85SlZcR2hjvEZ5PDADis/pub?start=true&loop=false&delayms=3000)
+- Huawei, HarmonyOS Technology Innovation Summit, Florence, September 2025 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vQgGCReonWkzyeHn1e_5lRO0SQYfzU-v2eCEPYMSDUbQk-g-3MSkASpKnNvvt9-t5azk5kWa1FolonS/pub?start=true&loop=false&delayms=3000)
 
 Service
 ======
