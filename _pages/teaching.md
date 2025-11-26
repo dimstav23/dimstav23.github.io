@@ -57,5 +57,8 @@ Supervised Theses
 - [Hardware-Assisted Memory Safety for WebAssembly](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2024/summer/docs/msc_martin_fink_wasm_memory_safety.pdf) <br /> 
 ***Author: Martin Fink, MSc Thesis***
 
-- [Tamperproof Logging System for GDPR-compliant Key-Value Stores](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2025/summer/docs/bsc_karidas.pdf) <br /> 
+- [Tamperproof Logging System for GDPR-compliant Key-Value Stores](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2025/summer/docs/msc_hussien.pdf) <br /> 
 ***Author: Christian Karidas, BSc Thesis***
+
+- [GDPR Metadata Indexing Optimization](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2025/summer/docs/bsc_karidas.pdf) <br /> 
+***Author: Shrief Hussien, MSc Thesis***
