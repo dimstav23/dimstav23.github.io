@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+__Trusted AI Agents in the Cloud__. Arxiv 2025 \
+Teofil Bodea, Masanori Misono, Julian Pritzi, Patrick Sabanic, Thore Sommer, Harshavardhan Unnibhavi, David Schall, Nuno Santos, Dimitrios Stavrakakis, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://dimstav23.github.io/publications) [[Arxiv version]](https://arxiv.org/abs/2512.05951)
+
 __Wallet: Confidential Serverless Computing__. NSDI '26 (To Appear) \
 Patrick Sabanic, Masanori Misono, Teofil Bodea, Julian Pritzi, Michael Hackl, Dimitrios Stavrakakis, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/TUM-DSE/Wallet-VMPL) [[Arxiv version]](https://arxiv.org/pdf/2504.21518)

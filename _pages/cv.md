@@ -34,9 +34,13 @@ Work experience
 
 Publications
 ======
+__Trusted AI Agents in the Cloud__. Arxiv 2025 \
+Teofil Bodea, Masanori Misono, Julian Pritzi, Patrick Sabanic, Thore Sommer, Harshavardhan Unnibhavi, David Schall, Nuno Santos, Dimitrios Stavrakakis, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv) [[Arxiv version]](https://arxiv.org/abs/2512.05951)
+
 __Wallet: Confidential Serverless Computing__. NSDI '26 (To Appear) \
 Patrick Sabanic, Masanori Misono, Teofil Bodea, Julian Pritzi, Michael Hackl, Dimitrios Stavrakakis, Pramod Bhatotia. \
-[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/Wallet-VMPL) [[Arxiv version]](https://arxiv.org/pdf/2504.21518)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2025/08/Wallet-NSDI-2026.pdf) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/Wallet-VMPL) [[Arxiv version]](https://arxiv.org/pdf/2504.21518)
 
 __Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX__. SIGMETRICS '25 \
 Masanori Misono, Dimitrios Stavrakakis, Nuno Santos, Pramod Bhatotia. \
