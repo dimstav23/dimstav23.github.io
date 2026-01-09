@@ -94,6 +94,8 @@ Invited talks
 
 Service
 ======
+- __[VLDB '27](https://www.vldb.org/2027/)__ : Program Committee Member
+- __[EuroSys '27](https://dimstav23.github.io/cv)__ : Program Committee Member
 - __[SOSP '26](https://sigops.org/s/conferences/sosp/2026/index.html)__ : Workshop chair
 - __[ASPLOS '26](https://www.asplos-conference.org/asplos2026/)__ : Program Committee Member
 - __[SYSTOR '25](https://www.systor.org/2025/)__ : Program Committee Member
