@@ -34,6 +34,10 @@ Work experience
 
 Publications
 ======
+__GDPRuler: A Trusted GDPR Monitor for Cloud Storage Systems__. CCS '26 (To Appear) \
+Dimitrios Stavrakakis, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia. \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler)
+
 __Trusted AI Agents in the Cloud__. Arxiv 2025 \
 Teofil Bodea, Masanori Misono, Julian Pritzi, Patrick Sabanic, Thore Sommer, Harshavardhan Unnibhavi, David Schall, Nuno Santos, Dimitrios Stavrakakis, Pramod Bhatotia. \
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv) [[Arxiv version]](https://arxiv.org/abs/2512.05951)
