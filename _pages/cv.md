@@ -47,7 +47,7 @@ __Arxiv 2025__ \
 Wallet: Confidential Serverless Computing \
 _Patrick Sabanic, Masanori Misono, Teofil Bodea, Julian Pritzi, Michael Hackl, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
 __NSDI '26__ \
-[[Paper]](https://dse.in.tum.de/wp-content/uploads/2025/08/Wallet-NSDI-2026.pdf) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/Wallet-VMPL) [[Arxiv version]](https://arxiv.org/pdf/2504.21518)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2026/01/Wallet_NSDI_26_Revision-16.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2026/05/Wallet-NSDI26-PDF-version.pdf) [[Code]](https://github.com/TUM-DSE/Wallet-VMPL) [[Arxiv version]](https://arxiv.org/pdf/2504.21518)
 
 Confidential VMs Explained: An Empirical Analysis of AMD SEV-SNP and Intel TDX \
 _Masanori Misono, <ins>Dimitrios Stavrakakis</ins>, Nuno Santos, Pramod Bhatotia_. \
