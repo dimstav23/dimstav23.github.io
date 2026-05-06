@@ -97,9 +97,11 @@ Invited talks
 - SIGMOD 2024, Santiago de Chile, June 2024
 - DSN 2024, Brisbane, June 2024
 - CCS 2024, Salt Lake City, October 2024
+- NSDI 2026, Renton, WA, May 2026
 
-**University research labs:**
+**Research labs:**
 - [Computer Systems Seminar](https://www.eng.utah.edu/~csl-sem/old/f24/), The University of Utah, Salt Lake City, October 2024 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vTx5mQ3HOkwPOhMEPTuwLwXyak-EQIHe_dSuvANm-h_tofvwtj0umNExJi7vc2ud-b1qyDbulbldUG0/pub?start=true&loop=false&delayms=3000)
+- Invited talk, MPI SWS & MPI SP, Kaiserslautern, April 2026 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vS1kLYzVstrI9GcPHFIk3Ex3luAoiqM0GfPDTg88H5XBRdGGVZ-TDo0ynsBWCEJ9aP51FUPMggAPVzB/pub?start=false&loop=false&delayms=3000)
 
 **Industry talks:**
 - Intel Labs, Security and Privacy Tech Talks: EuroSys 2022, Online, May 2022 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vSztIgeqt6D9t5qpLbY5_0i13LujmnhrrnUM4pR-3gjrK5NhtU1c_TgjVs1bodbz2UntLHOrTuzULal/pub?start=true&loop=false&delayms=3000)
