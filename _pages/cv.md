@@ -37,7 +37,7 @@ Publications
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
 __CCS '26__ \
-[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler)
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler) [[Arxiv version]](https://arxiv.org/abs/2606.05423)
 
 Trusted AI Agents in the Cloud \
 _Teofil Bodea, Masanori Misono, Julian Pritzi, Patrick Sabanic, Thore Sommer, Harshavardhan Unnibhavi, David Schall, Nuno Santos, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
