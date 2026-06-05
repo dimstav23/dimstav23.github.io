@@ -110,7 +110,8 @@ Invited talks
 
 Service
 ======
-- __[ASPLOS '27](https://dimstav23.github.io/cv)__ : External Review Committee Member
+- __[IEEE S&P '27](https://sp2027.ieee-security.org/)__ : Program Committee Member
+- __[ASPLOS '27](https://www.asplos-conference.org/asplos2027/)__ : External Review Committee Member
 - __[VLDB '27](https://www.vldb.org/2027/)__ : Program Committee Member
 - __[EuroSys '27](https://2027.eurosys.org/index.html)__ : Workshop chair & Program Committee Member
 - __[EuroS&P '26](https://eurosp2026.ieee-security.org/)__ : Poster chair
