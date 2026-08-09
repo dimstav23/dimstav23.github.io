@@ -115,7 +115,7 @@ Service
 - __[VLDB '27](https://www.vldb.org/2027/)__ : Program Committee Member
 - __[EuroSys '27](https://2027.eurosys.org/index.html)__ : Workshop chair & Program Committee Member
 - __[EuroS&P '26](https://eurosp2026.ieee-security.org/)__ : Poster chair
-- __[SOSP '26](https://sigops.org/s/conferences/sosp/2026/index.html)__ : Workshop chair
+- __[SOSP '26](https://sigops.org/s/conferences/sosp/2026/index.html)__ : Workshop chair & Posters Track Program Committee Member
 - __[ASPLOS '26](https://www.asplos-conference.org/asplos2026/)__ : Program Committee Member
 - __[SYSTOR '25](https://www.systor.org/2025/)__ : Program Committee Member
 - __[EuroSys '21](https://2021.eurosys.org/index.html)__ : Student volunteer
