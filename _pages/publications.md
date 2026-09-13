@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production? \
+_Ilya Meignan–Masson\*, Martin Fink\*, Masanori Misono, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
+\* *Equal contribution to the paper.* \
+__SIGMOD '27 (To Appear)__ \
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://github.com/TUM-DSE/memsafedb)
+
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
 __CCS '26__ \
