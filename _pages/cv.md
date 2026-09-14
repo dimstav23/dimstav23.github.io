@@ -40,6 +40,11 @@ _Ilya Meignan–Masson\*, Martin Fink\*, Masanori Misono, <ins>Dimitrios Stavrak
 __SIGMOD '27 (To Appear)__ \
 [[Pre-print]](https://dse.in.tum.de/wp-content/uploads/2026/09/memsafedb_sigmod27_preprint.pdf) [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/memsafedb)
 
+IMPACT: Constraint-Aware Search for Imperfectly Factorized Accelerator Mappings \
+_Konstantinos Stavrakakis, Ilgaz Er, Theofilos Spyrou, <ins>Dimitrios Stavrakakis</ins>, Stephan Wong, Georgi Gaydadjiev, Said Hamdioui_. \
+__ASP-DAC '27 (To Appear)__ \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
+
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
 __CCS '26__ \
