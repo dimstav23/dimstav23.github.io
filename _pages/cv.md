@@ -48,11 +48,11 @@ __ASP-DAC '27 (To Appear)__ \
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
 __CCS '26__ \
-[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler) [[Arxiv version]](https://arxiv.org/abs/2606.05423)
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler) [[Tech report]](https://arxiv.org/abs/2606.05423)
 
 Trusted AI Agents in the Cloud \
 _Teofil Bodea, Masanori Misono, Julian Pritzi, Patrick Sabanic, Thore Sommer, Harshavardhan Unnibhavi, David Schall, Nuno Santos, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
-__Arxiv 2025__ \
+__Arxiv '25__ \
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv) [[Arxiv version]](https://arxiv.org/abs/2512.05951)
 
 Wallet: Confidential Serverless Computing \
