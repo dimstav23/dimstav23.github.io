@@ -24,7 +24,7 @@ __SIGMOD '27 (To Appear)__ \
 IMPACT: Constraint-Aware Search for Imperfectly Factorized Accelerator Mappings \
 _Konstantinos Stavrakakis, Ilgaz Er, Theofilos Spyrou, <ins>Dimitrios Stavrakakis</ins>, Stephan Wong, Georgi Gaydadjiev, Said Hamdioui_. \
 __ASP-DAC '27 (To Appear)__ \
-[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://dimstav23.github.io/publications
+[[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://dimstav23.github.io/publications)
 
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
