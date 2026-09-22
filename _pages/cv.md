@@ -34,6 +34,11 @@ Work experience
 
 Publications
 ======
+CVM-Store: A Secure Storage System for Confidential Virtual Machines \
+_Thore Sommer, Masanori Misono, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
+__NDSS '27 (To Appear)__ \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/CVM-Store-NDSS27)
+
 Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production? \
 _Ilya Meignan–Masson\*, Martin Fink\*, Masanori Misono, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
 \* *Equal contribution to the paper.* \
