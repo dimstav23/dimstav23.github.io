@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dimitrios Stavrakakis"
+  name             : "Dimitrios Stavrakakis, Ph.D."
   avatar           : "prof_photo_2026_cropped.png"
-  bio              : "<b>Research Group Leader</b> <br /> Trusworthy Computer Systems Group <br /> Chair of Computer Systems <br /> @ <em>Technical University of Munich</em>"
+  bio              : "<b>Research Group Leader</b> <br /> Trusworthy Systems Group <br /> Chair of Computer Systems <br /> <em>Technical University of Munich</em>"
   location         : "Munich, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
