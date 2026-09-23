@@ -19,7 +19,8 @@ Education
   
 Work experience
 ======
-* **November 2024 - Present: Postdoctoral researcher** <br />
+* **September 2024 - Present: Postdoctoral researcher / Research Group Leader** <br />
+  *Trusworthy Computer Systems group, at the Chair of Computer Systems* <br />
   *School of Computation, Information and Technology (CIT), Technical University of Munich (TUM), Germany*
   
 * **July 2023 - January 2024: Research Intern**<br />
