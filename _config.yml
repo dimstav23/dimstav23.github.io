@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Dimitrios Stavrakakis, Ph.D."
+name                     : &name "Dimitrios Stavrakakis"
 description              : &description "Research Group Leader <br /> Trusworthy Computer Systems Group <br /> Chair of Computer Systems <br /> @ Technical University of Munich"
 url                      : https://dimstav23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dimitrios Stavrakakis, Ph.D."
+  name             : "Dimitrios Stavrakakis"
   avatar           : "prof_photo_2026_cropped.png"
   bio              : "<b>Research Group Leader</b> <br /> Trusworthy Systems Group <br /> Chair of Computer Systems <br /> <em>Technical University of Munich</em>"
   location         : "Munich, Germany"
