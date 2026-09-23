@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher in the [Systems Research Group](https://dse.in.tum.de/) at the School of Computation, Information and Technology (CIT), TU Munich, where I lead the [Trustworthy Systems Group](https://dse.in.tum.de/trustworthy-systems-group/). 
+I am currently a Postdoctoral Researcher and Research Group Leader in the [Systems Research Group](https://dse.in.tum.de/) at the School of Computation, Information and Technology (CIT), TU Munich, where I lead the [Trustworthy Systems Group](https://dse.in.tum.de/trustworthy-systems-group/). 
 My research interest lies in the field of trustworthy computer systems design; precisely in the areas of operating systems, virtualization technologies and system software. My current work mainly focuses on building secure, reliable, verifiable and policy compliant systems leveraging modern Trusted Execution Environment (TEE) technologies.
 
 Background
