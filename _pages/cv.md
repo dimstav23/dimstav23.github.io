@@ -45,20 +45,10 @@ _Ilya Meignan–Masson\*, Martin Fink\*, Masanori Misono, <ins>Dimitrios Stavrak
 __SIGMOD '27 (To Appear)__ \
 [[Pre-print]](https://dse.in.tum.de/wp-content/uploads/2026/09/memsafedb_sigmod27_preprint.pdf) [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/memsafedb)
 
-IMPACT: Constraint-Aware Search for Imperfectly Factorized Accelerator Mappings \
-_Konstantinos Stavrakakis, Ilgaz Er, Theofilos Spyrou, <ins>Dimitrios Stavrakakis</ins>, Stephan Wong, Georgi Gaydadjiev, Said Hamdioui_. \
-__ASP-DAC '27 (To Appear)__ \
-[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
-
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
 __CCS '26__ \
 [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler) [[Tech report]](https://arxiv.org/abs/2606.05423)
-
-Trusted AI Agents in the Cloud \
-_Teofil Bodea, Masanori Misono, Julian Pritzi, Patrick Sabanic, Thore Sommer, Harshavardhan Unnibhavi, David Schall, Nuno Santos, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
-__Arxiv '25__ \
-[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv) [[Arxiv version]](https://arxiv.org/abs/2512.05951)
 
 Wallet: Confidential Serverless Computing \
 _Patrick Sabanic, Masanori Misono, Teofil Bodea, Julian Pritzi, Michael Hackl, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
@@ -102,6 +92,18 @@ _Kartal Kaan Bozdoğan\*, <ins>Dimitrios Stavrakakis</ins>\*, Shady Issa, Pramod
 __EuroSys '22__ \
 [[Paper]](https://dse.in.tum.de/wp-content/uploads/2022/04/final_digital_version.pdf) [[Presentation]](https://dse.in.tum.de/wp-content/uploads/2022/04/SafePM_eurosys22_presentation.pdf) [[Code]](https://github.com/TUM-DSE/safepm) \
 [*Honorable Mention: Best Artifact Award*](https://dse.in.tum.de/wp-content/uploads/2022/05/HonorableMention-GillesMuller-SafePM.pdf)
+
+Other publications / Non-peer-reviewed manuscripts
+======
+IMPACT: Constraint-Aware Search for Imperfectly Factorized Accelerator Mappings \
+_Konstantinos Stavrakakis, Ilgaz Er, Theofilos Spyrou, <ins>Dimitrios Stavrakakis</ins>, Stephan Wong, Georgi Gaydadjiev, Said Hamdioui_. \
+__ASP-DAC '27 (To Appear)__ \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv)
+
+Trusted AI Agents in the Cloud \
+_Teofil Bodea, Masanori Misono, Julian Pritzi, Patrick Sabanic, Thore Sommer, Harshavardhan Unnibhavi, David Schall, Nuno Santos, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
+__Arxiv '25__ \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv) [[Arxiv version]](https://arxiv.org/abs/2512.05951)
 
 Invited talks
 ======
