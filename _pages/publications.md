@@ -77,7 +77,8 @@ __EuroSys '22__ \
 Other publications / Non-peer-reviewed manuscripts
 ======
 Ember: Making Unified Virtual Memory Practical for Discrete-Memory GPUs \
-_Senad-Leandro Lemes Galera, Michail Georgoulakis Misegiannis, Ferdinand Gruber, Jana Giceva, <ins>Dimitrios Stavrakakis</ins>_. \
+_Senad-Leandro Lemes Galera\*, Michail Georgoulakis Misegiannis\*, Ferdinand Gruber, Jana Giceva, <ins>Dimitrios Stavrakakis</ins>_. \
+\* *Equal contribution to the paper.* \
 __Arxiv '26__ \
 [[Paper]](https://dimstav23.github.io/publications) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://dimstav23.github.io/publications) [[Arxiv version]](https://arxiv.org/abs/2610.13408)
 
