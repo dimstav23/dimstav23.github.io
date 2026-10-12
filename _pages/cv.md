@@ -44,7 +44,7 @@ Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in P
 _Ilya Meignan–Masson\*, Martin Fink\*, Masanori Misono, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
 \* *Equal contribution to the paper.* \
 __SIGMOD '27 (To Appear)__ \
-[[Pre-print]](https://dse.in.tum.de/wp-content/uploads/2026/09/memsafedb_sigmod27_preprint.pdf) [[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/memsafedb)
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/TUM-DSE/memsafedb) [[Pre-print]](https://dse.in.tum.de/wp-content/uploads/2026/09/memsafedb_sigmod27_preprint.pdf) [[Arxiv version]](https://arxiv.org/abs/2610.11525)
 
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
@@ -96,6 +96,11 @@ __EuroSys '22__ \
 
 Other publications / Non-peer-reviewed manuscripts
 ======
+Ember: Making Unified Virtual Memory Practical for Discrete-Memory GPUs \
+_Senad-Leandro Lemes Galera, Michail Georgoulakis Misegiannis, Ferdinand Gruber, Jana Giceva, <ins>Dimitrios Stavrakakis</ins>_. \
+__Arxiv '26__ \
+[[Paper]](https://dimstav23.github.io/cv) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://dimstav23.github.io/cv) [[Arxiv version]](https://arxiv.org/abs/2610.13408)
+
 IMPACT: Constraint-Aware Search for Imperfectly Factorized Accelerator Mappings \
 _Konstantinos Stavrakakis, Ilgaz Er, Theofilos Spyrou, <ins>Dimitrios Stavrakakis</ins>, Stephan Wong, Georgi Gaydadjiev, Said Hamdioui_. \
 __ASP-DAC '27 (To Appear)__ \
