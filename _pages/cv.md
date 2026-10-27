@@ -123,6 +123,8 @@ Invited talks
 - DSN 2024, Brisbane, June 2024
 - CCS 2024, Salt Lake City, October 2024
 - NSDI 2026, Renton, WA, May 2026
+- Bavarian Database Day 2026, Munich, October 2026
+- CCS 2026, The Hague, November 2026
 
 **Research labs:**
 - [Computer Systems Seminar](https://www.eng.utah.edu/~csl-sem/old/f24/), The University of Utah, Salt Lake City, October 2024 [[Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vTx5mQ3HOkwPOhMEPTuwLwXyak-EQIHe_dSuvANm-h_tofvwtj0umNExJi7vc2ud-b1qyDbulbldUG0/pub?start=true&loop=false&delayms=3000)
