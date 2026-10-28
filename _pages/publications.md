@@ -18,7 +18,7 @@ author_profile: true
 CVM-Store: A Secure Storage System for Confidential Virtual Machines \
 _Thore Sommer, Masanori Misono, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
 __NDSS '27 (To Appear)__ \
-[[Paper]](https://dse.in.tum.de/wp-content/uploads/2026/10/main-camera-ready.pdf) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://zenodo.org/records/23703217) [[Arxiv version]](https://arxiv.org/abs/2610.34560)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2026/10/cvmstore_ndss27.pdf) [[Presentation]](https://dimstav23.github.io/publications) [[Code]](https://zenodo.org/records/23703217) [[Arxiv version]](https://arxiv.org/abs/2610.34560)
 
 Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production? \
 _Ilya Meignan–Masson\*, Martin Fink\*, Masanori Misono, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
