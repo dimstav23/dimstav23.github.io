@@ -49,7 +49,7 @@ __SIGMOD '27 (To Appear)__ \
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems \
 _<ins>Dimitrios Stavrakakis</ins>, Masanori Misono, Julian Pritzi, Harshavardhan Unnibhavi, Nuno Santos, Pramod Bhatotia_. \
 __CCS '26__ \
-[[Paper]](https://dl.acm.org/doi/10.1145/3830454.3832582) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler) [[Tech report]](https://arxiv.org/abs/2606.05423)
+[[Paper]](https://dse.in.tum.de/wp-content/uploads/2026/11/gdpruler_ccs26.pdf) [[Presentation]](https://dimstav23.github.io/cv) [[Code]](https://github.com/dimstav23/GDPRuler) [[Tech report]](https://arxiv.org/abs/2606.05423)
 
 Wallet: Confidential Serverless Computing \
 _Patrick Sabanic, Masanori Misono, Teofil Bodea, Julian Pritzi, Michael Hackl, <ins>Dimitrios Stavrakakis</ins>, Pramod Bhatotia_. \
